@@ -5,7 +5,7 @@
 
 <br>
 
-Credit risk is the risk associated with defaults from borrowers. <br>
+Credit risk is the risk associated with defaults from borrowers.<br>
 In any debt transaction, the lender has to bear some credit risk associated with providing the loan.
 
 This risk depends on several factors, such as the borrower’s past financial background, current earnings, security provided, etc. In case a borrower defaults on the loan, the lender has to incur significant losses. Therefore, each lender has to evaluate the credit risk associated with a loan before providing it.
