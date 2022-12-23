@@ -135,6 +135,5 @@ dataset/
 .DS_Store
 
 # Presentation
-presentation/
-
+presentation/img*
 !presentation/img/companies-locs.png
