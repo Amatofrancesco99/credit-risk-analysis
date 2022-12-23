@@ -128,8 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Dataset
+# DS_Store
 dataset/
 
 # DS_Store
 .DS_Store
+
+# Presentation
+presentation/
