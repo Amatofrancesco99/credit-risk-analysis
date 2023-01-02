@@ -60,7 +60,7 @@ In the following figure you can get an idea on where the companies inside the ma
 <img src="./presentation/img/companies-locs.png"><br>
 
 # Contact
-In case you need some further detail (e.g., the datasets) you can contact directly me. <br><br>
+In case you need some further details you can contact directly me. <br><br>
 <a href="mailto:amatofrancesco99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ***
