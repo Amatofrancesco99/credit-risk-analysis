@@ -5,7 +5,7 @@ pingouin==0.5.3
 matplotlib==3.4.3
 pydeck==0.8.0b4
 plotly==4.14.3
-numpy==1.20.2
+numpy==1.22
 ipywidgets==7.6.5
 scipy==1.7.1
 scikit-learn==0.24.2
