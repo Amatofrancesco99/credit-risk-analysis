@@ -1,7 +1,7 @@
 # Credit Risk Analysis - Financial Data Science
 
 [![License](https://img.shields.io/badge/License-BSD_3-purple?style=for-the-badge&logo=FreeBSD)](LICENSE.md)
-![Views](https://komarev.com/ghpvc/?username=credit-risk-analysis&label=Views&style=for-the-badge&color=brightgreen)<br>
+![Views](https://komarev.com/ghpvc/?username=Credit-Risk-Analysis-GitHub&label=Views&style=for-the-badge&color=brightgreen)<br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
