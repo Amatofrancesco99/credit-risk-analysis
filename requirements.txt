@@ -8,4 +8,4 @@ plotly==4.14.3
 numpy==1.22
 ipywidgets==7.6.5
 scipy==1.7.1
-scikit-learn==0.24.2
+scikit-learn==1.5.1
